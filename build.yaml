@@ -1,0 +1,6 @@
+targets:
+  $default:
+    builders:
+      reflectable:
+        generate_for:
+          - bin/reflectable_issue_307.dart
